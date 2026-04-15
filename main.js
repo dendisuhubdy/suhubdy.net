@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const animateTargets = document.querySelectorAll(
         '.section-label, .two-col .col-left, .two-col .col-right, ' +
         '.philosophy-header, .principle, .focus-header, .focus-card, ' +
+        '.portfolio-header, .portfolio-card, ' +
         '.contact-left, .contact-right'
     );
 
